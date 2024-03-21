@@ -1,1 +1,1 @@
-A Web Application which manages all your To-Do's
+A Web Application which changes your website recommendations
