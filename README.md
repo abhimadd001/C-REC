@@ -1,1 +1,1 @@
-A Web Application which changes your website recommendations
+A Web Extension capable of changing your website recommendations.
